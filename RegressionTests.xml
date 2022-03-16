@@ -1,0 +1,17 @@
+<suite name="Suite1" verbose="1" >
+    <test name="Regression1" preserve-order="true">
+        <classes>
+            <class name="Tests.RegisterationTestCases"/>
+            <class name="Tests.MyAccountTestCases"/>
+            <class name="Tests.SearchProductTestCases"/>
+            <class name="Tests.WishesListTestCases"/>
+            <class name="Tests.CompareListTestCases"/>
+            <class name="Tests.ChangeCurrencyTestCases"/>
+            <class name="Tests.SelectCategoryTestCases"/>
+            <class name="Tests.FilterByColorTestCases"/>
+            <class name="Tests.SelectTagsTestCases"/>
+            <class name="Tests.AddToShoppingCartTestCases"/>
+            <class name="Tests.CheckOutTestCases"/>
+        </classes>
+    </test>
+</suite>
